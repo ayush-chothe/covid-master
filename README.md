@@ -1,3 +1,3 @@
 # covid
 
-https://snh3003.github.io/covid/
+https://ayush-chothe.github.io/covid-master/
